@@ -4,6 +4,8 @@ This project focuses on analyzing online retail sales data to extract patterns a
 ## Contents
 - [System Requirements](#System_Requirements)
 - [Libraries Used](#Libraries_Used)
+- [Data](#Data)
+- [Installation](#Installation)
 - [Usage](#Usage)
 - [Data Analysis Steps](#Data_Analysis_Steps)
 - [Results](#Results)
@@ -15,6 +17,9 @@ This project focuses on analyzing online retail sales data to extract patterns a
 3. seaborn: For enhanced data visualization.
 4. mlxtend: For extracting frequent itemsets and association rules.
 
+## Data
+You can download the dataset from this link ([ online+retail.csv file](https://archive.ics.uci.edu/dataset/352/online+retail)).
+
 ## Installation
 You can install the required libraries using pip:
 
@@ -24,8 +29,8 @@ pip install pandas matplotlib seaborn mlxtend openpyxl
 
 
 
-## Usage
-## 1. Load the Data:
+## Usage:
+   ## 1. Load the Data:
  The program loads sales data from an Excel file named Online Retail.xlsx.
 
   
